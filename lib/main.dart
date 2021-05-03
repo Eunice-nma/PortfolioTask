@@ -128,25 +128,10 @@ class _MyHomePageState extends State<MyHomePage> {
                           leading: Icon(Icons.remove),
                           title: Text('https://github.com/Eunice-nma'),
                         ),
-
                       ],
                     )),
                   ),
                   SizedBox(height: 20),
-                  // Card(
-                  //   color: Color(0XFFFCFEFF),
-                  //   child: Container(
-                  //     padding: EdgeInsets.all(15.0),
-                  //     child: Text(
-                  //       'Below is a list of technologies i use',
-                  //       style: TextStyle(
-                  //         fontSize: 18,
-                  //         letterSpacing: .5,
-                  //       ),
-                  //     ),
-                  //
-                  //   ),
-                  // ),
                 ],
               ),
             )),
